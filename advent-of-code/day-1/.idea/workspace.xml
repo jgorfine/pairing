@@ -17,7 +17,7 @@
           <file leaf-file-name="FrequencyCalculatorTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/frequency/FrequencyCalculatorTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="646">
+                <state relative-caret-position="812">
                   <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
                 </state>
               </provider>
@@ -30,7 +30,7 @@
           <file leaf-file-name="FrequencyCalculator.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/frequency/FrequencyCalculator.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
+                <state relative-caret-position="580">
                   <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -384,14 +384,11 @@
       <option name="presentableId" value="Default" />
       <updated>1544038954595</updated>
       <workItem from="1544038955851" duration="6309000" />
-      <workItem from="1544046337012" duration="2778000" />
+      <workItem from="1544046337012" duration="2815000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_it_returns_results_from_given_file_name - 2018.12.05 at 16h 30m 41s.xml">
-      <configuration name="AppTest.it_returns_results_from_given_file_name" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FrequencyCalculatorTest_can_find_duplicate_frequency_in_first_pass - 2018.12.05 at 16h 57m 28s.xml">
       <configuration name="FrequencyCalculatorTest.can_find_duplicate_frequency_in_first_pass" configurationId="JUnit" />
     </history-entry>
@@ -419,9 +416,12 @@
     <history-entry file="FrequencyCalculatorTest_can_find_duplicate_frequency_in_first_pass - 2018.12.05 at 17h 13m 54s.xml">
       <configuration name="FrequencyCalculatorTest.can_find_duplicate_frequency_in_first_pass" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FrequencyCalculatorTest_can_find_duplicate_frequency_in_first_pass - 2018.12.05 at 17h 32m 34s.xml">
+      <configuration name="FrequencyCalculatorTest.can_find_duplicate_frequency_in_first_pass" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9087000" />
+    <option name="totallyTimeSpent" value="9124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1413" extended-state="0" />
@@ -436,7 +436,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33359075" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33359075" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -542,20 +542,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/frequency/FrequencyCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/frequency/FrequencyCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="580">
           <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/frequency/FrequencyCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
