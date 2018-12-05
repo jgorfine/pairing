@@ -14,7 +14,7 @@ public class FrequencyCalculatorTest {
         // output: a single integer, total balance
 
         List<String> input = asList("+50");
-        int result = FrequencyCalculator.calculate(input);
+        int result = FrequencyCalculator.calculateFinalFrequency(input);
 
         assertEquals(result, 50);
     }
@@ -22,9 +22,18 @@ public class FrequencyCalculatorTest {
     @Test
     public void can_calculate_frequency_of_long_list() {
         List<String> input = asList("+1", "-2", "+40");
-        int result = FrequencyCalculator.calculate(input);
+        int result = FrequencyCalculator.calculateFinalFrequency(input);
 
         assertEquals(result, 39);
     }
 
+    @Test
+    public void can_find_duplicate_frequency_in_first_pass() {
+        List<String> input = asList("+1", "-2", "+2");
+        int duplicateResult = FrequencyCalculator.calculateDuplicateFrequency(input);
+
+        assertEquals(duplicateResult, 1);
+    }
+
+//    This input requires looping twice to find the duplicate +1, -2, +3, +1
 }
