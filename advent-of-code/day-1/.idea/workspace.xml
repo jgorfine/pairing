@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bc747c3-b451-42c7-804b-9767f8f6f183" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.3933298">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="FileProcessingTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/frequency/FileProcessingTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="147">
+                  <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test1.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/resources/test1.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="3" selection-start-column="3" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/frequency/AppTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="406">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="FrequencyCalculator.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/frequency/FrequencyCalculator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="261">
+                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                  <folding>
+                    <element signature="e#131#132#0" expanded="true" />
+                    <element signature="e#201#202#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/frequency/App.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="348">
+                  <caret line="12" column="41" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="41" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FileProcessor.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/frequency/FileProcessor.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="377">
+                  <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../interview-java-auction-house" value="3031185574000" />
+        <entry key="$PROJECT_DIR$/../../interview-java-auction-house-master" value="3029839552000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/eliza/interview-java-auction-house-master-test-eliza" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-07-13" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-07-26a" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-0801a" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-0807a" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-master 2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-master-0621" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-master-1001" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-master-al-0619" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-master-eliza" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/interview-java-auction-house-master-test" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/frequency/AllNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/test2.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test1.txt" />
+        <option value="$PROJECT_DIR$/src/main/frequency/FileProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/frequency/FileProcessingTest.java" />
+        <option value="$PROJECT_DIR$/src/test/frequency/FrequencyCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/frequency/FrequencyCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/frequencies.txt" />
+        <option value="$PROJECT_DIR$/src/test/frequency/App.java" />
+        <option value="$PROJECT_DIR$/src/test/frequency/AppText.java" />
+        <option value="$PROJECT_DIR$/src/test/frequency/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/frequency/App.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1413" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-1-intellij" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-1-intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-1-intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-1-intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="frequency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-1-intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-1-intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-1-intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="frequency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-1-intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="frequency" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frequency.App" />
+      <module name="day-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frequency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AppTest.it_returns_results_from_given_file_name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frequency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="frequency" />
+      <option name="MAIN_CLASS_NAME" value="frequency.AppTest" />
+      <option name="METHOD_NAME" value="it_returns_results_from_given_file_name" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FrequencyCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frequency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="frequency" />
+      <option name="MAIN_CLASS_NAME" value="frequency.FrequencyCalculatorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FrequencyCalculatorTest.can_calculate_frequency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frequency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="frequency" />
+      <option name="MAIN_CLASS_NAME" value="frequency.FrequencyCalculatorTest" />
+      <option name="METHOD_NAME" value="can_calculate_frequency" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FrequencyCalculatorTest.can_calculate_frequency_of_long_list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frequency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="frequency" />
+      <option name="MAIN_CLASS_NAME" value="frequency.FrequencyCalculatorTest" />
+      <option name="METHOD_NAME" value="can_calculate_frequency_of_long_list" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FrequencyCalculatorTest.can_calculate_frequency" />
+      <item itemvalue="JUnit.FrequencyCalculatorTest.can_calculate_frequency_of_long_list" />
+      <item itemvalue="JUnit.FrequencyCalculatorTest" />
+      <item itemvalue="JUnit.AppTest.it_returns_results_from_given_file_name" />
+      <item itemvalue="Application.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTest.it_returns_results_from_given_file_name" />
+        <item itemvalue="JUnit.FrequencyCalculatorTest" />
+        <item itemvalue="JUnit.FrequencyCalculatorTest.can_calculate_frequency_of_long_list" />
+        <item itemvalue="JUnit.FrequencyCalculatorTest.can_calculate_frequency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc747c3-b451-42c7-804b-9767f8f6f183" name="Default" comment="" />
+      <created>1544038954595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544038954595</updated>
+      <workItem from="1544038955851" duration="6309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FrequencyCalculatorTest_can_calculate_frequency - 2018.12.05 at 16h 09m 50s.xml">
+      <configuration name="FrequencyCalculatorTest.can_calculate_frequency" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCalculatorTest_can_calculate_frequency - 2018.12.05 at 16h 10m 19s.xml">
+      <configuration name="FrequencyCalculatorTest.can_calculate_frequency" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCalculatorTest_can_calculate_frequency - 2018.12.05 at 16h 10m 32s.xml">
+      <configuration name="FrequencyCalculatorTest.can_calculate_frequency" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCalculatorTest_can_calculate_frequency_of_long_list - 2018.12.05 at 16h 11m 23s.xml">
+      <configuration name="FrequencyCalculatorTest.can_calculate_frequency_of_long_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCalculatorTest_can_calculate_frequency_of_long_list - 2018.12.05 at 16h 11m 25s.xml">
+      <configuration name="FrequencyCalculatorTest.can_calculate_frequency_of_long_list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCalculatorTest - 2018.12.05 at 16h 11m 27s.xml">
+      <configuration name="FrequencyCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCalculatorTest - 2018.12.05 at 16h 22m 06s.xml">
+      <configuration name="FrequencyCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_it_returns_results_from_given_file_name - 2018.12.05 at 16h 29m 04s.xml">
+      <configuration name="AppTest.it_returns_results_from_given_file_name" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_it_returns_results_from_given_file_name - 2018.12.05 at 16h 30m 29s.xml">
+      <configuration name="AppTest.it_returns_results_from_given_file_name" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_it_returns_results_from_given_file_name - 2018.12.05 at 16h 30m 41s.xml">
+      <configuration name="AppTest.it_returns_results_from_given_file_name" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6309000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1413" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33410317" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1808765" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day-1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/frequency/AllNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="105" column="20" lean-forward="true" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="237" column="11" selection-start-line="237" selection-start-column="4" selection-end-line="237" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;class#List#0" />
+            <element signature="docComment;method#size#0;class#List#0" />
+            <element signature="docComment;method#isEmpty#0;class#List#0" />
+            <element signature="docComment;method#contains#0;class#List#0" />
+            <element signature="docComment;method#iterator#0;class#List#0" />
+            <element signature="docComment;method#toArray#0;class#List#0" />
+            <element signature="docComment;method#toArray#1;class#List#0" />
+            <element signature="docComment;method#add#0;class#List#0" />
+            <element signature="docComment;method#remove#0;class#List#0" />
+            <element signature="docComment;method#containsAll#0;class#List#0" />
+            <element signature="docComment;method#addAll#0;class#List#0" />
+            <element signature="docComment;method#addAll#1;class#List#0" />
+            <element signature="docComment;method#removeAll#0;class#List#0" />
+            <element signature="docComment;method#retainAll#0;class#List#0" />
+            <element signature="docComment;method#replaceAll#0;class#List#0" />
+            <element signature="method#replaceAll#0;class#List#0" />
+            <element signature="docComment;method#sort#0;class#List#0" />
+            <element signature="method#sort#0;class#List#0" />
+            <element signature="docComment;method#clear#0;class#List#0" />
+            <element signature="docComment;method#equals#0;class#List#0" />
+            <element signature="docComment;method#hashCode#0;class#List#0" />
+            <element signature="docComment;method#get#0;class#List#0" />
+            <element signature="docComment;method#set#0;class#List#0" />
+            <element signature="docComment;method#add#1;class#List#0" />
+            <element signature="docComment;method#remove#1;class#List#0" />
+            <element signature="docComment;method#indexOf#0;class#List#0" />
+            <element signature="docComment;method#lastIndexOf#0;class#List#0" />
+            <element signature="docComment;method#listIterator#0;class#List#0" />
+            <element signature="docComment;method#listIterator#1;class#List#0" />
+            <element signature="docComment;method#subList#0;class#List#0" />
+            <element signature="docComment;method#spliterator#0;class#List#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/ClassLoaderUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#releaseLoader#1;class#ClassLoaderUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="1087" column="11" selection-start-line="1087" selection-start-column="11" selection-end-line="1087" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;class#ClassLoader#0" />
+            <element signature="initializer##0;class#ClassLoader#0" />
+            <element signature="e#7118#7191#0" />
+            <element signature="e#7118#8856#0" />
+            <element signature="e#7524#7621#0" />
+            <element signature="e#7631#7845#0" />
+            <element signature="e#7631#8533#0" />
+            <element signature="e#8036#8084#0" />
+            <element signature="e#8543#8667#0" />
+            <element signature="e#8543#8850#0" />
+            <element signature="e#10411#10637#0" />
+            <element signature="e#10643#11302#0" />
+            <element signature="e#11308#11944#0" />
+            <element signature="e#12052#12691#0" />
+            <element signature="e#12817#13469#0" />
+            <element signature="e#12817#13589#0" />
+            <element signature="e#13595#15205#0" />
+            <element signature="e#13595#16688#0" />
+            <element signature="e#15858#15909#0" />
+            <element signature="e#16043#16096#0" />
+            <element signature="e#16694#17426#0" />
+            <element signature="e#16694#17780#0" />
+            <element signature="e#17786#18275#0" />
+            <element signature="e#17956#18017#0" />
+            <element signature="e#18281#19224#0" />
+            <element signature="class#18900:19112" />
+            <element signature="method#run#0;class#18900:19112" />
+            <element signature="e#19230#19946#0" />
+            <element signature="e#19230#20078#0" />
+            <element signature="e#20084#21853#0" />
+            <element signature="e#20084#22035#0" />
+            <element signature="e#22041#24615#0" />
+            <element signature="e#22041#24794#0" />
+            <element signature="e#24800#25781#0" />
+            <element signature="e#25222#25295#0" />
+            <element signature="e#25787#26071#0" />
+            <element signature="e#26077#26343#0" />
+            <element signature="e#26349#29580#0" />
+            <element signature="e#26349#30062#0" />
+            <element signature="e#30068#32808#0" />
+            <element signature="e#30068#33886#0" />
+            <element signature="e#34414#34769#0" />
+            <element signature="e#34775#35781#0" />
+            <element signature="e#35787#35946#0" />
+            <element signature="e#35787#37178#0" />
+            <element signature="e#36348#36402#0" />
+            <element signature="e#37184#37756#0" />
+            <element signature="e#37898#38761#0" />
+            <element signature="e#37898#39269#0" />
+            <element signature="e#39275#39383#0" />
+            <element signature="e#39275#39539#0" />
+            <element signature="e#39639#40153#0" />
+            <element signature="e#39639#40313#0" />
+            <element signature="e#40385#40649#0" />
+            <element signature="e#40784#41967#0" />
+            <element signature="e#42280#43655#0" />
+            <element signature="e#42280#44093#0" />
+            <element signature="e#44099#44482#0" />
+            <element signature="e#44561#45092#0" />
+            <element signature="e#44561#45234#0" />
+            <element signature="e#45240#45878#0" />
+            <element signature="e#45240#46140#0" />
+            <element signature="e#46146#46610#0" />
+            <element signature="e#46146#46852#0" />
+            <element signature="e#46858#47505#0" />
+            <element signature="e#46858#47794#0" />
+            <element signature="e#47800#47869#0" />
+            <element signature="e#47800#48082#0" />
+            <element signature="e#48088#48157#0" />
+            <element signature="e#48088#48622#0" />
+            <element signature="class#48377:48615" />
+            <element signature="e#48819#49232#0" />
+            <element signature="e#48819#49474#0" />
+            <element signature="e#49480#49930#0" />
+            <element signature="e#49480#50191#0" />
+            <element signature="e#50222#51404#0" />
+            <element signature="e#50222#51896#0" />
+            <element signature="e#51618#51660#0" />
+            <element signature="e#51902#54769#0" />
+            <element signature="e#51902#55134#0" />
+            <element signature="e#55140#56244#0" />
+            <element signature="e#56250#56603#0" />
+            <element signature="e#56609#57211#0" />
+            <element signature="e#57217#57561#0" />
+            <element signature="e#57567#58224#0" />
+            <element signature="e#58504#59849#0" />
+            <element signature="e#58504#60623#0" />
+            <element signature="e#60629#60957#0" />
+            <element signature="e#60629#61677#0" />
+            <element signature="e#61683#61933#0" />
+            <element signature="e#61683#62601#0" />
+            <element signature="e#62644#63233#0" />
+            <element signature="e#63317#64002#0" />
+            <element signature="e#63317#66144#0" />
+            <element signature="e#64836#65030#0" />
+            <element signature="e#65040#65923#0" />
+            <element signature="e#66783#67740#0" />
+            <element signature="e#67746#70049#0" />
+            <element signature="e#70118#73548#0" />
+            <element signature="class#70468:70629" />
+            <element signature="e#73554#74095#0" />
+            <element signature="e#75097#75815#0" />
+            <element signature="e#75097#76071#0" />
+            <element signature="e#76077#77956#0" />
+            <element signature="e#76077#78292#0" />
+            <element signature="e#78298#79314#0" />
+            <element signature="e#78298#79598#0" />
+            <element signature="e#79604#80011#0" />
+            <element signature="e#79604#80423#0" />
+            <element signature="e#80429#81407#0" />
+            <element signature="e#80429#82545#0" />
+            <element signature="e#81514#81555#0" />
+            <element signature="e#82551#83381#0" />
+            <element signature="class#SystemClassLoaderAction#0" />
+            <element signature="method#run#0;class#SystemClassLoaderAction#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="944" column="23" selection-start-line="944" selection-start-column="23" selection-end-line="944" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/frequency/FileProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/frequency/FrequencyCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/frequency/FileProcessingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/frequencies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28652">
+          <caret line="988" column="7" selection-start-line="988" selection-start-column="7" selection-end-line="988" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/frequency/FrequencyCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/frequency/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/frequency/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
